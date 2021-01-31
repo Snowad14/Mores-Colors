@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6009a17d-9333-4d5e-979c-90cccf68b9cc}") = "MoreColors", "MoreColors\MoreColors.csproj", "{6009a17d-9333-4d5e-979c-90cccf68b9cc}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6009a17d-9333-4d5e-979c-90cccf68b9cc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6009a17d-9333-4d5e-979c-90cccf68b9cc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6009a17d-9333-4d5e-979c-90cccf68b9cc}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6009a17d-9333-4d5e-979c-90cccf68b9cc}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6665558-5BFD-4D1A-96F8-9F80AAB18CAB}
+	EndGlobalSection
+EndGlobal
