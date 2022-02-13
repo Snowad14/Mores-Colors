@@ -8,8 +8,7 @@ using UnityEngine;
 
 namespace MoreColors
 {
-	// Token: 0x02000002 RID: 2
-	[BepInPlugin("fr.snowad.NewRole", "MoreColor", "1.1")]
+	[BepInPlugin("fr.snowad.MoreColors", "MoreColors", "1.1")]
 	public class MoreColor : BasePlugin
 	{
 		public override void Load()
